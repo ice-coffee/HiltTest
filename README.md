@@ -3,6 +3,8 @@
 
 [Dagger2 注解](https://juejin.im/post/5c7f8eb3e51d4525c54d4df1)
 
+[Dagger2 解析](https://www.jianshu.com/p/8a9a7ed29186)
+
 [自定义Scope（翻译）](https://www.cnblogs.com/tiantianbyconan/p/5095426.html)
 
 ### 疑问
