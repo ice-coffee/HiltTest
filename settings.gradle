@@ -1,0 +1,5 @@
+include ':hilt'
+include ':google_dagger'
+include ':dagger'
+include ':app'
+rootProject.name = "HiltTest"
